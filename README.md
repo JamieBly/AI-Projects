@@ -1,1 +1,1 @@
-This is a compilation of a bunch of smaller AI and Data Science projects I have recently worked on throughout my last 4th year in advanced classes.
+This is a compilation of the AI and Data Science projects I completed in my final year of advanced classes.
